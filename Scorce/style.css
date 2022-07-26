@@ -4,3 +4,31 @@
 .catagori img{
    width: 40%;
 }
+.in {
+   border-right: 0%;
+   border-top-right-radius: 0%;
+   border-bottom-right-radius: 0%;
+   height: 60px;
+   border-top-left-radius: 8px;
+   border-bottom-left-radius: 8px;
+   font-weight: 600;
+   font-size: 22px;
+}
+.in :focus{
+   border-color: none;
+}
+.send{
+   border-right: 0%;
+   border-top-left-radius: 0%;
+   border-bottom-left-radius: 0%;
+   height: 60px;
+   border-top-right-radius: 8px;
+   border-bottom-right-radius: 8px;
+   width: 100px;
+   color: #FFFF;
+   font-weight: 600;
+   font-size: 20px;
+}
+.last{
+   height: 350px;
+}
